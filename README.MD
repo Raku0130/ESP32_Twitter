@@ -1,8 +1,8 @@
 ESP32_Twitter
 
 
-ThingSpeak(https://thingspeak.com)を用いてESP32からWiFI経由でツイートするためのライブラリ
-使用前にThingSpeakでアカウントを作成しThingTweet(https://thingspeak.com/apps/thingtweets)でTwitterのアカウントと連携しAPIkeyを取得してください
+ThingSpeak(https://thingspeak.com )を用いてESP32からWiFI経由でツイートするためのライブラリ
+使用前にThingSpeakでアカウントを作成しThingTweet(https://thingspeak.com/apps/thingtweets )でTwitterのアカウントと連携しAPIkeyを取得してください
 
 
 Example
